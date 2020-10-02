@@ -41,3 +41,25 @@ Android Resource API (Telpon, GPS, SMS, Camera dll), Pemrograman Database Berbas
   </tr>
  </tbody>
 </table>
+
+## Profil  
+
+<table>
+ <tbody>
+  <tr>
+   <td>Lecturer</td><td>Abdulloh</td></td>
+  </tr>
+  <tr>
+   <td>Institusion</td><td>State Polytechnic of Malang (jti.polinema.ac.id)</td></td>
+  </tr>
+  <tr>
+   <td>Academic Year</td><td>2020/2021</td></td>
+  </tr>
+  <tr>
+   <td>Email</td><td>a</td></td>
+  </tr>
+  <tr>
+   <td>Github</td><td>(https://github.com/abdullohn)</td></td>
+  </tr>
+ </tbody>
+</table>
