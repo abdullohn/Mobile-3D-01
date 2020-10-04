@@ -5,6 +5,7 @@
 Pemrograman Mobile memberikan pengetahuan dan pemahaman serta cara pembuatan produk berupa aplikasi 
 mobile sehingga dalam mata kuliah ini mahasiswa mampu merancang dan mengimplementasikan sebuah produk aplikasi mobile pada perangkat mobile yang populer.
 
+
 ## Capaian Pembelajaran (CP)
 
 ### Capaian Pembelajaran Lulusan Program Studi   (CPL-Prodi)     
@@ -37,12 +38,12 @@ Android Resource API (Telpon, GPS, SMS, Camera dll), Pemrograman Database Berbas
    <td>Email</td><td>habibie@polinema.ac.id</td></td>
   </tr>
   <tr>
-   <td>Github</td><td>(https://github.com/habibieeddien)</td></td>
+   <td>Github</td><td>(https://github.com/hbb-polinema)</td></td>
   </tr>
  </tbody>
 </table>
 
-## Profil  
+## Data Diri  
 
 <table>
  <tbody>
@@ -63,3 +64,20 @@ Android Resource API (Telpon, GPS, SMS, Camera dll), Pemrograman Database Berbas
   </tr>
  </tbody>
 </table>
+
+## Struktur Folder
+
+| Nama Folder | Keterangan |
+|--|--|
+| *docs* | Berisi dokumentasi laporan praktikum dengan format *markdown* (.md). Dokumen berisi jawaban dari soal tiap praktikum dan screenshot hasil kompilasi program. |
+| *src* | Berisi kode sumber (*source code*) pada tiap pertemuan praktikum. |
+
+## Pernyataan Diri
+
+Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
+
+Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektual, saya siap untuk mendapat sanksi atau hukuman sesuai peraturan perundang-undangan yang berlaku.
+
+Ttd,
+
+***(Abdulloh)***
