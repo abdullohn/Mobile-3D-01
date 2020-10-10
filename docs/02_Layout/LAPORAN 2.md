@@ -19,11 +19,11 @@ Topik ini berisi beberapa materi pelajaran termasuk properti proyek, desain tata
 ## Laporan Praktikum
 
 1. 
-
+Hasil Pengujian
 ![GUIDE 1](img/GUIDE_1(output).PNG)
 
 2. 
-
+Hasil Pengujian
 ![GUIDE 2](img/GUIDE_2(output).PNG)
 
 3. 
