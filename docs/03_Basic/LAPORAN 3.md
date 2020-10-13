@@ -14,6 +14,14 @@
 
 ## Laporan Praktikum
 
+1. Hasil output 
+![GUIDE 1](img/Guide1(output).PNG)
+
+2. Hasil output 
+![GUIDE 2](img/Guide2(output).PNG)
+
+3. Hasil output 
+![GUIDE 3](img/Guide3(output).PNG)
 
 
 ## Pernyataan Diri
