@@ -17,8 +17,32 @@ Advanced Widgets bertujuan untuk mempelajari utilization dari widgets, timer, st
 
 ## Laporan Praktikum
 
+1. Hasil output 
+![GUIDE 1.1](img/guide1.1.PNG)
 
+2. Hasil output 
+![GUIDE 1.2](img/guide1.2.PNG)
 
+3. Hasil output 
+![GUIDE 2](img/guide2.PNG)
+
+4. Hasil output 
+![GUIDE 3](img/guide3.PNG)
+
+5. Hasil output 
+![GUIDE 4](img/guide4.PNG)
+
+6. Hasil output 
+![GUIDE 5](img/guide5.PNG)
+
+7. Hasil output 
+![GUIDE 6](img/guide6.PNG)
+
+8. Hasil output 
+![GUIDE 7](img/guide7.PNG)
+
+8. Hasil output 
+![GUIDE 8](img/guide8.PNG)
 
 ## Pernyataan Diri
 
