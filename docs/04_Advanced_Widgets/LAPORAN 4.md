@@ -12,7 +12,7 @@
 8. Mengerti cara menghandle timer dan mengkalkulasikan scorenya
 
 ## Deskripsi
-
+Advanced Widgets bertujuan untuk mempelajari utilization dari widgets, timer, style, dan data structures.
 
 
 ## Laporan Praktikum
