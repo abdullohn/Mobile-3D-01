@@ -44,6 +44,10 @@ Advanced Widgets bertujuan untuk mempelajari utilization dari widgets, timer, st
 8. Hasil output 
 ![GUIDE 8](img/guide8.PNG)
 
+
+## Hasil Akhir
+![hasil](img/hasil.gif)
+
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
