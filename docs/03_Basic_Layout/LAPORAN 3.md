@@ -53,6 +53,10 @@ Hasil output
 Hasil output 
 ![GUIDE 9](img/Guide9.2(output).PNG)
 
+Hasil akhir
+
+![hasilakhir](img/hasilakhir.gif)
+
 
 ## Pernyataan Diri
 
