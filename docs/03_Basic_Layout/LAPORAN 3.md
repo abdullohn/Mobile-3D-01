@@ -33,10 +33,8 @@ Basic Activity aims to study the basic of programming in Activity of Android pro
 5. Hasil output 
 ![GUIDE 5](img/Guide5(output).PNG)
 
-6. 
-Hasil output 
+6. Hasil output 
 ![GUIDE 6](img/Guide6.1(output).PNG)
-
 Hasil output 
 ![GUIDE 6](img/Guide6.2(output).PNG)
 
@@ -46,14 +44,12 @@ Hasil output
 8. Hasil output 
 ![GUIDE 8](img/Guide8(output).PNG)
 
-9. 
-Hasil output 
+9. Hasil output 
 ![GUIDE 9](img/Guide9.1(output).PNG)
-
 Hasil output 
 ![GUIDE 9](img/Guide9.2(output).PNG)
 
-Hasil akhir
+## Hasil akhir
 
 ![hasilakhir](img/hasilakhir.gif)
 
