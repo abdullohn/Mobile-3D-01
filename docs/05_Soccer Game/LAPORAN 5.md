@@ -2,11 +2,32 @@
 
 ## Objektif
 
+1. Siswa akan memulai proyek Android untuk membuat aplikasi Android itu Berisi beberapa kegiatan bertajuk Pertandingan Sepak Bola. Pertama dengan proyek konfigurasi dan konfigurasi sumber daya.
 
+2. Siswa akan mulai mendesain layout utama sebagai layout pertama yang berisi CardView, ListView, ImageButton, TextView, EditText, dan Button.
+
+3. Siswa akan mulai mendesain layout Play sebagai layout kedua yang berisi CardView, ImageButton, ImageView, TextView, Fragment Container, dan Tombol.
+
+4. Siswa akan mulai mendesain layout Log sebagai layout ketiga yang berisi TextView, RecyclerView, dan Button.
+
+5. Siswa akan mulai mendesain layout daftar, layout dialog, layout cocokkan log, dan tata letak fragmen footer.
+
+6. Siswa akan mulai membuat program untuk MainActivity. Tugas ini akan memperkenalkan caranya untuk menangani ListView, buka maksud pemilih gambar, tampilkan dialog, dan buka maksud lain.
+
+7. Siswa akan mulai membuat program untuk PlayActivity. Tugas ini akan memperkenalkan:
+- cara mengumpulkan variabel Intent passing,
+- cara menggunakan Timer dengan Handler,
+- cara menggunakan Menu Popup, dan
+- cara membuat dan mengakses Fragmen.
+
+8. Siswa akan mulai membuat program untuk LogActivity. Tugas ini akan memperkenalkan:
+- cara mengumpulkan variabel Intent passing,
+- cara menggunakan RecyclerView,
+- cara menggunakan adaptor View, dan
+- cara memuat array sebagai tambahan Intent.
 
 ## Deskripsi
-
-
+Multi Activities bertujuan untuk mempelajari bagaimana caranya membuat aplikasi dengan banyak aktivitas dengan memanfaatkan maksud dan fragmen.
 
 ## Laporan Praktikum
 
