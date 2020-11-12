@@ -58,6 +58,8 @@ Multi Activities bertujuan untuk mempelajari bagaimana caranya membuat aplikasi 
 
 ## Hasil Akhir
 
+![hasil](img/hasil.jpeg)
+
 
 ## Pernyataan Diri
 
