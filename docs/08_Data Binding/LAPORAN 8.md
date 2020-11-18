@@ -1,11 +1,11 @@
-# Advanced Widgets
+# Data Binding
 
 ## Objektif
 Aplikasi memiliki satu layar yang menampilkan beberapa data statis dan beberapa data yang dapat diamati, yang berarti bahwa ketika data berubah, UI akan diperbarui secara otomatis.
 
 Data disediakan oleh ViewModel. Model-View-ViewModel adalah pola lapisan presentasi yang bekerja sangat baik dengan Data Binding. Berikut diagramnya:
 
-![code](img/teori.PNG)
+![teori](img/teori.PNG)
 
 Android berkomunikasi bolak-balik dengan View.  Tampilan mengamati ViewModel dan mengirimkan tindakan pengguna ke sana.  Di luar lapisan presentasi, ada lapisan lain yang diwakili oleh interaktor atau repositori.
 
