@@ -1,13 +1,9 @@
-# Input Controls
+# Score View Model
 
 ## Objektif
-1. Cara mengubah metode masukan untuk mengaktifkan suggestions, auto-capitalization, and password obfuscation.
-2. Cara mengubah generic on-screen keyboard menjadi phone keypad atau keyboard khusus lainnya.
-3. Bagaimana menambahkan radio buttons bagi pengguna untuk memilih satu item dari satu set item.
-4. Cara menambahkan spinner untuk menampilkan menu drop-down dengan values, dimana pengguna dapat memilihnya.
+
 
 ## Deskripsi
-Dalam praktik ini, Anda menggunakan atribut untuk mengontrol tampilan on-screen keyboard, dan untuk menyetel tipe entri data untuk file EditText. Anda juga menambahkan radio buttons ke aplikasi DroidCafe sehingga pengguna dapat memilih satu item dari satu set item.
 
 ## Laporan Praktikum
 

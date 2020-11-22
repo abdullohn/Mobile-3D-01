@@ -1,19 +1,19 @@
-# Projek Akhir 
-
-## Objektif
+# Kuis II
 
 
 ## Deskripsi
-
+Laporan hasil kuis II nomor 1
 
 ## Laporan Praktikum
 
+1. Sample Code Data Binding
+![code](img/databinding.PNG)
+2. Sample Code View Model
+![code](img/viewmodel.PNG)
+3. Sample Code Fragment
+![code](img/fragment.PNG)
+4. Sample Code Navigasi
 ![code](img/samplecode.PNG)
-
-
-## Hasil Akhir
-
-![hasil](img/hasil.gif)
 
 
 ## Pernyataan Diri
