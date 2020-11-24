@@ -1,9 +1,12 @@
 # Score View Model
 
 ## Objektif
+1. Anda menggunakan kelas ViewModel untuk menyimpan dan mengelola data terkait UI dengan cara yang sadar siklus. The kelas ViewModel memungkinkan data untuk bertahan hidup perubahan perangkat-konfigurasi seperti rotasi layar dan perubahan ketersediaan Keyboard.
 
+2. Anda menggunakan kelas ViewModelFactory untuk membuat instance dan mengembalikan objek ViewModel yang bertahan dari perubahan konfigurasi.
 
 ## Deskripsi
+Akan belajar view model dengan aplikasi ini
 
 ## Laporan Praktikum
 
