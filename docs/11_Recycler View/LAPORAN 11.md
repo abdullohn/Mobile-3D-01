@@ -1,9 +1,18 @@
 # Recylcer View
 
 ## Objektif
+1. Cara menggunakan RecyclerViewkelas untuk menampilkan item dalam daftar yang dapat digulir.
+2. Cara menambahkan item secara dinamis ke saat item RecyclerViewterlihat melalui pengguliran.
+3. Cara melakukan suatu tindakan ketika pengguna mengetuk item tertentu.
+4. Cara menampilkan FAB dan melakukan tindakan saat pengguna mengetuknya.
 
 ## Deskripsi
+RecyclerViewadalah subkelas ViewGroupdan merupakan cara yang lebih hemat sumber daya untuk menampilkan daftar yang dapat digulir. Daripada membuat Viewuntuk setiap item yang mungkin atau mungkin tidak terlihat di layar, RecyclerViewbuat item daftar dalam jumlah terbatas dan gunakan kembali untuk konten yang terlihat.
 
+Dalam praktik ini Anda melakukan hal berikut:
+- Gunakan RecyclerViewuntuk menampilkan daftar yang dapat digulir.
+- Tambahkan handler klik ke setiap item daftar.
+- Tambahkan item ke daftar menggunakan tombol aksi mengambang (FAB) , tombol merah muda di tangkapan layar di bagian ikhtisar aplikasi. Gunakan - FAB untuk tindakan utama yang Anda ingin pengguna lakukan.
 
 ## Laporan Praktikum
 
