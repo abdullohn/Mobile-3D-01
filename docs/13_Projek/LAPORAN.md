@@ -1,7 +1,7 @@
 # Laporan Project Akhir (Tugas Besar)
 
 ## Judul 
-Water Drink Reminder, menggunakan Android Studio dengan bahasa kotlin ( [Source Code Disini](https://github.com/abdullohn ))
+Water Drink Reminder, menggunakan Android Studio dengan bahasa kotlin ( [Source Code Disini](https://github.com/abdullohn/Mobile-3D-01/tree/gh-pages/src/13_Projek) )
 
 ## Deskripsi
 Tujuan utama aplikasi ini ialah merancang dan membuat pengembangan aplikasi untuk mengetahui pola hidup
@@ -32,30 +32,33 @@ sehat, Aplikasi ini dibuat sesuai dengan judulnya yang berartikan pengingat untu
 </table>
 
 ## Fitur-fitur 
+Berikut fitur-fitur pada aplikasi Water Drink Reminder (Untuk Screenshot yang lebih detail [[Screennshot Disini](https://https://github.com/abdullohn/Mobile-3D-01/tree/gh-pages/docs/13_Projek/img)] )
 
-![hasil](img/Home_1.JPEG)
+1. Halaman Home : Ketika aplikasi dibuka akan langsung muncul seperti pada gif dibawah ini
+![hasil1](img/Home_1.JPEG)
 
-![hasil](img/Home_2.JPEG)
+2. Mililiter Button : Dibagian kanan bawah ada button yang berlogo cangkir kopi apabila dipilih tombol itu maka user bisa milih berapa mililiter yang mereka minum
+![hasil3](img/(gif)Mililiter.gif)
 
-![hasil](img/Add.JPEG)
+3. Add Button : Dibagian bawah ada pula button berlogo plus bersebelahan dengan Mililiter Button berfungsi untuk menambah berapa Mililiter yang sudah diminum oleh user
+![hasil3](img/(gif)Add.gif)
 
-![hasil](img/Calender.JPEG)
 
-![hasil](img/Weight.JPEG)
+![hasil4](img/Calender.JPEG)
 
-![hasil](img/Choose_Unit_Weight.JPEG)
+![hasil5](img/.JPEG)
 
-![hasil](img/Menu.JPEG)
+![hasil7](img/Menu.JPEG)
 
-![hasil](img/History.JPEG)
+![hasil8](img/History.JPEG)
 
-![hasil](img/Reminder.JPEG)
+![hasil9](img/Reminder.JPEG)
 
-![hasil](img/Settings.JPEG)
+![hasil10](img/Settings.JPEG)
 
-![hasil](img/Other_Settings.JPEG)
+![hasil11](img/Other_Settings.JPEG)
 
-![hasil](img/Sound_Options.JPEG)
+![hasil12](img/Sound_Options.JPEG)
 
 ## Saran
 Saran untuk aplikasi ini ialah ditambahkan lagi animasi-animasinya dan disempurnakan lagi.
