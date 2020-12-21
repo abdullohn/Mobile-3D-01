@@ -36,45 +36,45 @@ Berikut fitur-fitur pada aplikasi Water Drink Reminder (Untuk Screenshot yang le
 
 1. Halaman Home : Ketika aplikasi dibuka akan langsung muncul seperti pada gif dibawah ini
 
-![hasil1](img/(gif)Home.gif)
+<span style="display:block;text-align:center">![hasil1](img/(gif)Home.gif)</span>
 
 2. Mililiter Button : Dibagian kanan bawah ada button yang berlogo cangkir kopi apabila dipilih tombol itu maka user bisa milih berapa mililiter yang mereka minum
 
-![hasil2](img/(gif)Mililiter.gif)
+<span style="display:block;text-align:center">![hasil2](img/(gif)Mililiter.gif)</span>
 
 3. Add Button : Dibagian bawah ada pula button berlogo plus bersebelahan dengan Mililiter Button berfungsi untuk menambah berapa Mililiter yang sudah diminum oleh user
 
-![hasil3](img/(gif)Add.gif)
+<span style="display:block;text-align:center">![hasil3](img/(gif)Add.gif)</span>
 
 4. Calender : Difitur kalender ini sebenarnya berfungsi sama seperti history yaitu melihat riwayat kapan terakhir minum
 
-![hasil4](img/Calender.jpeg)
+<span style="display:block;text-align:center">![hasil4](img/Calender.jpeg)</span>
 
 5. Weight : User nantinya menentukan berapa berat badannya kemudian aplikasi ini akan menentukan target minum
 
-![hasil5](img/(gif)Weight.gif)
+<span style="display:block;text-align:center">![hasil5](img/(gif)Weight.gif)</span>
 
 6. Menu : Di Menu ada beberapa pilihan seperti Reminder, Settings, dan lainnya yang berfungsi sama seperti fitur-fitur yang sudah dijelaskan
 
-![hasil6](img/(gif)Menu.gif)
+<span style="display:block;text-align:center">![hasil6](img/(gif)Menu.gif)</span>
 
 7. History : History berfungsi untuk melihat riwayat terakhir minum seperti jam berapa, tanggal berapa, dan bahkan berapa mililiter
 
-![hasil7](img/History.JPEG)
+<span style="display:block;text-align:center">![hasil7](img/History.jpeg)</span>
 
 8. Reminder : Berfungsi untuk mengatur pengingat/reminder seperti bagaimana suara yang akan berdering dan apakah manual atau automatic kemudian di Other Settings bisa diatur Vibration, LED Lights, Reminder Sound, Reminder Volume sesuai keinginan user dan ada pula opsi suara notifikasi dan bisa dipilih juga sesuai kemauan user (Keterangan : Sebenarnya ada suara ketika muncul di notifikasi)
 
-![hasil8](img/Reminder.JPEG)
+<span style="display:block;text-align:center">![hasil8](img/Reminder.jpeg)</span>
 
-![hasil9](img/(gif)Reminder&Notifikasi.gif)
+<span style="display:block;text-align:center">![hasil9](img/(gif)Reminder&Notifikasi.gif)</span>
 
-![hasil11](img/Other_Settings.JPEG)
+<span style="display:block;text-align:center">![hasil11](img/Other_Settings.jpeg)</span>
 
-![hasil12](img/Sound_Options.JPEG)
+<span style="display:block;text-align:center">![hasil12](img/Sound_Options.jpeg)</span>
 
 9. Settings : Nantinya akan mengarah ke sesuai yang dipilih contoh Reminder nanti akan mengarah ke Reminder yang berada di Settings dan sejenisnya
 
-![hasil10](img/Settings.JPEG)
+<span style="display:block;text-align:center">![hasil10](img/Settings.jpeg)</span>
 
 
 
