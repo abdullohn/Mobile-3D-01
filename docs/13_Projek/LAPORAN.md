@@ -40,15 +40,15 @@ Berikut fitur-fitur pada aplikasi Water Drink Reminder (Untuk Screenshot yang le
 
 2. Mililiter Button : Dibagian kanan bawah ada button yang berlogo cangkir kopi apabila dipilih tombol itu maka user bisa milih berapa mililiter yang mereka minum
 
-![hasil3](img/(gif)Mililiter.gif)
+![hasil2](img/(gif)Mililiter.gif)
 
 3. Add Button : Dibagian bawah ada pula button berlogo plus bersebelahan dengan Mililiter Button berfungsi untuk menambah berapa Mililiter yang sudah diminum oleh user
 
-![hasil3](img/(gif)add.gif)
+![hasil3](img/(gif)Add.gif)
 
 4. Calender : Difitur kalender ini sebenarnya berfungsi sama seperti history yaitu melihat riwayat kapan terakhir minum
 
-![hasil4](img/Calender.JPEG)
+![hasil4](img/Calender.jpeg)
 
 5. Weight : User nantinya menentukan berapa berat badannya kemudian aplikasi ini akan menentukan target minum
 
