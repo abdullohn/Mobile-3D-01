@@ -5,7 +5,7 @@ Water Drink Reminder, menggunakan Android Studio dengan bahasa kotlin ( [Source 
 
 ## Deskripsi
 Tujuan utama aplikasi ini ialah merancang dan membuat pengembangan aplikasi untuk mengetahui pola hidup
-sehat, Aplikasi ini dibuat sesuai dengan judulnya yang berartikan pengingat untuk minum air. Jadi pengguna aplikasi ini diharapkan akan menjadi lebih perhatian dengan menggunakan aplikasi ini karena diingatkan melalui notifikasi kapan waktu untuk meminum air, juga bisa melihat riwayat harian kapan minum air, fungsi lainnya yaitu bisa ditentukan target minum air dalam sehari.
+sehat, Aplikasi ini dibuat sesuai dengan judulnya yang berartikan pengingat untuk minum air. Jadi pengguna aplikasi ini diharapkan akan menjadi lebih perhatian akan kesehatan dengan menggunakan aplikasi ini karena diingatkan melalui notifikasi kapan waktu untuk meminum air, juga bisa melihat riwayat harian kapan minum air, fungsi lainnya yaitu bisa ditentukan target minum air dalam sehari.
 
 ## Identitas Pengembang (Developer)
 <table>
@@ -32,13 +32,11 @@ sehat, Aplikasi ini dibuat sesuai dengan judulnya yang berartikan pengingat untu
 </table>
 
 ## Fitur-fitur 
-Berikut fitur-fitur pada aplikasi Water Drink Reminder (Untuk Screenshot yang lebih detail [[Screennshot Disini](https://github.com/abdullohn/Mobile-3D-01/tree/gh-pages/docs/13_Projek/img)] )
+Berikut fitur-fitur pada aplikasi Water Drink Reminder (Untuk Screenshot yang lebih detail [[Screenshot Disini](https://github.com/abdullohn/Mobile-3D-01/tree/gh-pages/docs/13_Projek/img)] )
 
 1. Halaman Home : Ketika aplikasi dibuka akan langsung muncul seperti pada gif dibawah ini
 
 <span style="display:block;text-align:center">![hasil1](img/(gif)Home.gif)</span>
-
-<div style="text-align:center"><img src="img/(gif)Home.gif"/></div>
 
 2. Mililiter Button : Dibagian kanan bawah ada button yang berlogo cangkir kopi apabila dipilih tombol itu maka user bisa milih berapa mililiter yang mereka minum
 
@@ -79,13 +77,13 @@ Berikut fitur-fitur pada aplikasi Water Drink Reminder (Untuk Screenshot yang le
 <span style="display:block;text-align:center">![hasil10](img/Settings.jpeg)</span>
 
 
-
 ## Saran
 Saran untuk aplikasi ini ialah ditambahkan lagi animasi-animasinya dan disempurnakan lagi.
 
 ## Kesimpulan
 - Disini bisa mempelajari banyak hal seperti Retrofit, Recycler View, input controls, dan banyak lagi
 - Diharapkan aplikasi ini bisa diimplementasikan
+- Manfaat aplikasi ini bisa diatur entah itu automatic atau manual untuk mengingatkan minum air walaupun sedikit mengganggu untuk keseharian
 - Setelah dibuatnya aplikasi ini diharapkan bisa membuat kesehatan pengguna lebih membaik.
 
 ## Referensi
