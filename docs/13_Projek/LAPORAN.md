@@ -35,36 +35,54 @@ sehat, Aplikasi ini dibuat sesuai dengan judulnya yang berartikan pengingat untu
 Berikut fitur-fitur pada aplikasi Water Drink Reminder (Untuk Screenshot yang lebih detail [[Screennshot Disini](https://https://github.com/abdullohn/Mobile-3D-01/tree/gh-pages/docs/13_Projek/img)] )
 
 1. Halaman Home : Ketika aplikasi dibuka akan langsung muncul seperti pada gif dibawah ini
-![hasil1](img/Home_1.JPEG)
+
+![hasil1](img/(gif)Home.gif)
 
 2. Mililiter Button : Dibagian kanan bawah ada button yang berlogo cangkir kopi apabila dipilih tombol itu maka user bisa milih berapa mililiter yang mereka minum
+
 ![hasil3](img/(gif)Mililiter.gif)
 
 3. Add Button : Dibagian bawah ada pula button berlogo plus bersebelahan dengan Mililiter Button berfungsi untuk menambah berapa Mililiter yang sudah diminum oleh user
-![hasil3](img/(gif)Add.gif)
 
+![hasil3](img/(gif)add.gif)
+
+4. Calender : Difitur kalender ini sebenarnya berfungsi sama seperti history yaitu melihat riwayat kapan terakhir minum
 
 ![hasil4](img/Calender.JPEG)
 
-![hasil5](img/.JPEG)
+5. Weight : User nantinya menentukan berapa berat badannya kemudian aplikasi ini akan menentukan target minum
 
-![hasil7](img/Menu.JPEG)
+![hasil5](img/(gif)Weight.gif)
 
-![hasil8](img/History.JPEG)
+6. Menu : Di Menu ada beberapa pilihan seperti Reminder, Settings, dan lainnya yang berfungsi sama seperti fitur-fitur yang sudah dijelaskan
 
-![hasil9](img/Reminder.JPEG)
+![hasil6](img/(gif)Menu.gif)
 
-![hasil10](img/Settings.JPEG)
+7. History : History berfungsi untuk melihat riwayat terakhir minum seperti jam berapa, tanggal berapa, dan bahkan berapa mililiter
+
+![hasil7](img/History.JPEG)
+
+8. Reminder : Berfungsi untuk mengatur pengingat/reminder seperti bagaimana suara yang akan berdering dan apakah manual atau automatic kemudian di Other Settings bisa diatur Vibration, LED Lights, Reminder Sound, Reminder Volume sesuai keinginan user dan ada pula opsi suara notifikasi dan bisa dipilih juga sesuai kemauan user (Keterangan : Sebenarnya ada suara ketika muncul di notifikasi)
+
+![hasil8](img/Reminder.JPEG)
+
+![hasil9](img/(gif)Reminder&Notifikasi.gif)
 
 ![hasil11](img/Other_Settings.JPEG)
 
 ![hasil12](img/Sound_Options.JPEG)
 
+9. Settings : Nantinya akan mengarah ke sesuai yang dipilih contoh Reminder nanti akan mengarah ke Reminder yang berada di Settings dan sejenisnya
+
+![hasil10](img/Settings.JPEG)
+
+
+
 ## Saran
 Saran untuk aplikasi ini ialah ditambahkan lagi animasi-animasinya dan disempurnakan lagi.
 
 ## Kesimpulan
-- Disini bisa mempelajari banyak hal seperti Retrofit, recycler view, input controls, dan banyak lagi
+- Disini bisa mempelajari banyak hal seperti Retrofit, Recycler View, input controls, dan banyak lagi
 - Diharapkan aplikasi ini bisa diimplementasikan
 - Setelah dibuatnya aplikasi ini diharapkan bisa membuat kesehatan pengguna lebih membaik.
 
