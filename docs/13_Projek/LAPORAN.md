@@ -32,11 +32,13 @@ sehat, Aplikasi ini dibuat sesuai dengan judulnya yang berartikan pengingat untu
 </table>
 
 ## Fitur-fitur 
-Berikut fitur-fitur pada aplikasi Water Drink Reminder (Untuk Screenshot yang lebih detail [[Screennshot Disini](https://https://github.com/abdullohn/Mobile-3D-01/tree/gh-pages/docs/13_Projek/img)] )
+Berikut fitur-fitur pada aplikasi Water Drink Reminder (Untuk Screenshot yang lebih detail [[Screennshot Disini](https://github.com/abdullohn/Mobile-3D-01/tree/gh-pages/docs/13_Projek/img)] )
 
 1. Halaman Home : Ketika aplikasi dibuka akan langsung muncul seperti pada gif dibawah ini
 
 <span style="display:block;text-align:center">![hasil1](img/(gif)Home.gif)</span>
+
+<div style="text-align:center"><img src="img/(gif)Home.gif"/></div>
 
 2. Mililiter Button : Dibagian kanan bawah ada button yang berlogo cangkir kopi apabila dipilih tombol itu maka user bisa milih berapa mililiter yang mereka minum
 
